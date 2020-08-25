@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox prefHeight="117.0" prefWidth="173.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+   <children>
+      <Label prefHeight="17.0" prefWidth="39.0" text="About" />
+      <Label prefHeight="17.0" prefWidth="154.0" text="JavaFX application Demo" />
+   </children>
+</VBox>
