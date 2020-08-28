@@ -57,7 +57,7 @@ public class DepartmentListController implements Initializable {
 			throw new IllegalStateException("Service was empty");
 		}
 		
-		List<Department> list = service.finAll();
+		List<Department> list = service.findAll();
 		obsList = FXCollections.observableList(list);
 		tableViewDepartment.setItems(obsList);
 	}
