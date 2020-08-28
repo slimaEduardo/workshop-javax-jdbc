@@ -1,11 +1,11 @@
 package gui;
 
 import java.io.IOException;
+
 import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
 
-import com.sun.org.apache.xalan.internal.xsltc.dom.AbsoluteIterator;
 
 import application.Main;
 import gui.util.Alerts;
